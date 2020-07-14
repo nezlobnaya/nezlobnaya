@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a Software Engineer based in New York 🇺🇸.
 
 
 
@@ -7,5 +7,4 @@
 - 👯 I’m looking to collaborate on Full Stack projects
 - 💬 Ask me about React.js, Node.js
 - 📫 How to reach me: vlad.burlutskiy@icloud.com
-
 
