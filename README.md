@@ -6,3 +6,4 @@
 
 <div align="left">
     <p><a href="https://twitter.com/Vladdich/"><img alt="Twitter @vladdich" align="center" src="https://img.shields.io/badge/-@vladdich-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>&nbsp;<small> <strong>follow me on Twitter!</strong> 
+    <p><a href="https://www.linkedin.com/in/vladburlutsky/"><img alt="LinkedIn @MrAhmadAwais" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On LinkedIn y'all</small></p>
