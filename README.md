@@ -1,7 +1,11 @@
 ### Hi there 👋 I am a Software Engineer based in Big Apple 🇺🇸.
 
 - 👯 Let's collaborate on Full Stack projects   :point_left:
-- 💬 Ask me about React.js, JavaScript, Express, Node.js, Python, PostgreSQL, MongoDB
+- 💬 Ask me about:
+<div align="left">
+    <p><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react"/><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node"  /> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript"  /><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express"/><img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python"/><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgresql"/><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"/></p>
+</div>
+
 - 📫 Drop me a line: vlad.burlutskiy@icloud.com
 
 <div align="left">
