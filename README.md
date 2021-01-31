@@ -1,6 +1,6 @@
 ### Hi there 👋 I am a Software Engineer based in Big Apple 🇺🇸.
 
-- 👯 Let's collaborate on Full Stack projects
+- 👯 Let's collaborate on Full Stack projects   :point_left:
 - 💬 Ask me about React.js, JavaScript, Express, Node.js, Python, PostgreSQL, MongoDB
 - 📫 Drop me a line: vlad.burlutskiy@icloud.com
 
