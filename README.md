@@ -6,7 +6,7 @@
 - 💬 Ask me about:
 
 <div align="left">
-    <p><img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript"  /><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react"/> <img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" width="70" alt='redux' /> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node"  /> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express"/><img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python"/><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgresql"/><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"/><img src="https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png" alt="mongoose"/><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang"/></p> 
+    <p><img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript"  /><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node"/> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Golang"/></p> 
     
 
 </div>
