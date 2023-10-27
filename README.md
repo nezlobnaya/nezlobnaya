@@ -2,6 +2,6 @@
 
 - 👯 Let's collaborate on Full Stack projects   :point_left:
 - 📫 Drop me a line: vlad.burlutskiy@icloud.com
-- 'My richness is life. Forever"
+- "My richness is life. Forever"
 
 
